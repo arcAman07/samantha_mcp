@@ -1,0 +1,24 @@
+services:
+  samantha:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: samantha
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "5001:5000"  # Map host port 5001 to container port 5000 to avoid port conflicts
+      - "8501:8501"  # Streamlit dashboard
+    environment:
+      - MCP_PORT=5000
+      - STREAMLIT_PORT=8501
+      - SAMANTHA_DATA_DIR=/app/data
+    command: all
+    restart: unless-stopped
+    # Add healthcheck for better stability
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s

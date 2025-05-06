@@ -1,0 +1,70 @@
+{
+  "user_id": "aman_profile",
+  "learning_style": {
+    "visual": 0.24,
+    "auditory": 0.0,
+    "reading_writing": 0.0,
+    "kinesthetic": 0.06
+  },
+  "topics": {
+    "a memory profile": {
+      "name": "a memory profile",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T18:08:04.638312",
+      "related_topics": []
+    },
+    "videos": {
+      "name": "videos",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T18:08:04.638330",
+      "related_topics": []
+    },
+    "diagrams": {
+      "name": "diagrams",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T18:08:04.638332",
+      "related_topics": []
+    },
+    "artificial intelligence": {
+      "name": "artificial intelligence",
+      "mastery": 0.9,
+      "last_updated": "2025-05-03T18:08:04.638337",
+      "related_topics": []
+    },
+    "programming": {
+      "name": "programming",
+      "mastery": 0.9,
+      "last_updated": "2025-05-03T18:08:04.638338",
+      "related_topics": []
+    },
+    "the extract_memory tool": {
+      "name": "the extract_memory tool",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T18:08:04.638339",
+      "related_topics": []
+    },
+    "the following parameters": {
+      "name": "the following parameters",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T18:08:04.638341",
+      "related_topics": []
+    }
+  },
+  "system_prompts": [],
+  "conversation_style": {
+    "formality": 0.5,
+    "verbosity": 0.5,
+    "technical_level": 0.5
+  },
+  "preferences": {
+    "hobbies": {
+      "category": "hobbies",
+      "items": {
+        "I": 0.7,
+        "videos": 0.7
+      }
+    }
+  },
+  "created_at": "2025-05-03T18:08:04.511556",
+  "last_updated": "2025-05-03T18:08:04.638395"
+}

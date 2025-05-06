@@ -1,0 +1,270 @@
+{
+  "user_id": "Aman_Sharma",
+  "learning_style": {
+    "visual": 0.30319999999999997,
+    "auditory": 0.075,
+    "reading_writing": 0.12166666666666666,
+    "kinesthetic": 0.15713333333333332
+  },
+  "topics": {
+    "a memory profile": {
+      "name": "a memory profile",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449603",
+      "related_topics": []
+    },
+    "my interests": {
+      "name": "my interests",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449611",
+      "related_topics": []
+    },
+    "preferences": {
+      "name": "preferences",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449613",
+      "related_topics": []
+    },
+    "cosmology": {
+      "name": "cosmology",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449614",
+      "related_topics": []
+    },
+    "deep learning": {
+      "name": "deep learning",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449615",
+      "related_topics": []
+    },
+    "a big fan": {
+      "name": "a big fan",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:49.629655",
+      "related_topics": []
+    },
+    "iron man and nolan movies": {
+      "name": "iron man and nolan movies",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449617",
+      "related_topics": []
+    },
+    "visual explanations": {
+      "name": "visual explanations",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449618",
+      "related_topics": []
+    },
+    "diagrams": {
+      "name": "diagrams",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449619",
+      "related_topics": []
+    },
+    "code examples": {
+      "name": "code examples",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449619",
+      "related_topics": []
+    },
+    "technical concepts": {
+      "name": "technical concepts",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449620",
+      "related_topics": []
+    },
+    "the extract_memory tool": {
+      "name": "the extract_memory tool",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449621",
+      "related_topics": []
+    },
+    "a profile": {
+      "name": "a profile",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:23:41.449622",
+      "related_topics": []
+    },
+    "visual diagrams": {
+      "name": "visual diagrams",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:19.568342",
+      "related_topics": []
+    },
+    "video explanations": {
+      "name": "video explanations",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:19.568429",
+      "related_topics": []
+    },
+    "practical examples": {
+      "name": "practical examples",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:19.568431",
+      "related_topics": []
+    },
+    "things": {
+      "name": "things",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:19.568432",
+      "related_topics": []
+    },
+    "long text explanations": {
+      "name": "long text explanations",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:19.568433",
+      "related_topics": []
+    },
+    "visuals": {
+      "name": "visuals",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:19.568434",
+      "related_topics": []
+    },
+    "my profile": {
+      "name": "my profile",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:49.629672",
+      "related_topics": []
+    },
+    "my learning style": {
+      "name": "my learning style",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:19.568436",
+      "related_topics": []
+    },
+    "intermediate knowledge": {
+      "name": "intermediate knowledge",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:49.629613",
+      "related_topics": []
+    },
+    "deep reinforcement learning": {
+      "name": "deep reinforcement learning",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:49.629647",
+      "related_topics": []
+    },
+    "basic algorithms": {
+      "name": "basic algorithms",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:49.629648",
+      "related_topics": []
+    },
+    "a lot": {
+      "name": "a lot",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:49.629666",
+      "related_topics": []
+    },
+    "the character's development": {
+      "name": "the character's development",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:49.629667",
+      "related_topics": []
+    },
+    "comics": {
+      "name": "comics",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:49.629668",
+      "related_topics": []
+    },
+    "films": {
+      "name": "films",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:49.629669",
+      "related_topics": []
+    },
+    "theoretical physics concepts": {
+      "name": "theoretical physics concepts",
+      "mastery": 0.9,
+      "last_updated": "2025-05-03T20:24:49.629670",
+      "related_topics": []
+    },
+    "relativity and quantum mechanics": {
+      "name": "relativity and quantum mechanics",
+      "mastery": 0.9,
+      "last_updated": "2025-05-03T20:24:49.629670",
+      "related_topics": []
+    },
+    "a beginner level": {
+      "name": "a beginner level",
+      "mastery": 0.9,
+      "last_updated": "2025-05-03T20:24:49.629671",
+      "related_topics": []
+    },
+    "my topics": {
+      "name": "my topics",
+      "mastery": 0.7,
+      "last_updated": "2025-05-03T20:24:49.629673",
+      "related_topics": []
+    },
+    "Iron Man": {
+      "name": "Iron Man",
+      "mastery": 0.0,
+      "last_updated": "2025-05-03T20:25:57.287053",
+      "related_topics": [
+        "Marvel Universe",
+        "superhero films",
+        "Tony Stark"
+      ]
+    },
+    "Marvel Universe": {
+      "name": "Marvel Universe",
+      "mastery": 0.0,
+      "last_updated": "2025-05-03T20:25:57.287145",
+      "related_topics": []
+    },
+    "superhero films": {
+      "name": "superhero films",
+      "mastery": 0.0,
+      "last_updated": "2025-05-03T20:25:57.287148",
+      "related_topics": []
+    },
+    "Tony Stark": {
+      "name": "Tony Stark",
+      "mastery": 0.0,
+      "last_updated": "2025-05-03T20:25:57.287149",
+      "related_topics": []
+    }
+  },
+  "system_prompts": [
+    {
+      "content": "You are a patient teacher who specializes in explaining complex cosmology and physics concepts through visual analogies and diagrams. When explaining concepts like relativity, black holes, or cosmic expansion, use visual comparisons and thought experiments. Always relate new concepts to familiar experiences when possible. Avoid excessive mathematics unless requested, focusing instead on building intuitive understanding through visual models.",
+      "effectiveness": 0.62,
+      "last_used": "2025-05-03T20:33:17.170916",
+      "topics": [
+        "cosmology",
+        "relativity",
+        "astrophysics",
+        "black holes"
+      ],
+      "description": "Visual Cosmology Teaching Assistant"
+    }
+  ],
+  "conversation_style": {
+    "formality": 0.5,
+    "verbosity": 0.5,
+    "technical_level": 0.4547
+  },
+  "preferences": {
+    "hobbies": {
+      "category": "hobbies",
+      "items": {
+        "preferences": 0.7,
+        "I": 0.7,
+        "cosmology": 0.7
+      }
+    },
+    "movies": {
+      "category": "movies",
+      "items": {
+        "visual diagrams": 0.7,
+        "video explanations": 0.7,
+        "I": 0.7
+      }
+    }
+  },
+  "created_at": "2025-05-03T20:23:41.217443",
+  "last_updated": "2025-05-03T20:41:22.645326"
+}
